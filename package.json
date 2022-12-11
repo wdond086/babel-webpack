@@ -27,7 +27,7 @@
   "homepage": "https://github.com/wdond086/babel-webpack#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.0",
